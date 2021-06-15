@@ -1,0 +1,5 @@
+[caps]
+automationName = "UIAutomator2"
+platformName = "Android"
+deviceName = "Android Emulator"
+app = "C:\\qaninja\\ProjetoPetzAPP\\app\\Petz_br.com.petz.apk"
