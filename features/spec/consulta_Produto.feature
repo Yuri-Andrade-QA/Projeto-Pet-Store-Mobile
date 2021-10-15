@@ -26,13 +26,13 @@ Esquema do Cenario: Consultando Lista de Produtos com Sucesso
 
             Exemplos:
             | codigo      |
-            #| "ração"     |
-            #| "pestisco"  |
+            | "ração"     |
+            | "pestisco"  |
             | "tapete"    |
-            #| "remédio"   |
-            #| "brinquedo" |
+            | "remédio"   |
+            | "brinquedo" |
             | "coleira"   |
-            #| "toalha"    |
-            #| "cama"      |
-            #| "comedouro" |
-            #| "roupa"     |
+            | "toalha"    |
+            | "cama"      |
+            | "comedouro" |
+            | "roupa"     |
